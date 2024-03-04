@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=cd
+Exec=winecfg
+Comment=
+Terminal=false
+PrefersNonDefaultGPU=false
+Icon=wine-winecfg
+Type=Application
+Name[en_US]=Wine settings
+GenericName[en_US.UTF-8]=Adjust your wine config with a gui
